@@ -1,18 +1,30 @@
-## Hey there! 👋
+<h1 align="left">Hey, you! 👋</h1>
 
-I'm **Caden**, currently a Junior at the University of Minnesota studying **Computer Science** and **Mathematics**. I love combining CS & Math to create interesting solutions to computational problems and explore new ideas — to me, CS feels like a specialized extension of Math with endless potential!
+<p>
+    I'm <strong>Caden</strong>, currently a Junior at the University of Minnesota studying 
+    <strong>Computer Science</strong> and <strong>Mathematics</strong>. I love combining CS & Math to create 
+    interesting solutions to computational problems and explore new ideas — to me, CS feels like a specialized 
+    extension of Math with endless potential!
+</p>
 
-### 🔭 What I'm Working On
-- **Exploring**: Algorithms, cryptography, and data structures
-- **Building**: Interactive web projects and data-driven applications
-- **Learning**: Machine learning techniques, computational theory
+<div align="center">
+    <img alt="Stats Picture" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cyphercrit&theme=tokyonight">
+</div>
 
-### 🌱 My Goals
-I’m always eager to connect and hear new perspectives! Feel free to reach out if you’d like to chat about projects, ideas, or potential collaborations.
+<p>
+    I’m always eager to connect and hear new perspectives! Feel free to reach out if you’d like to chat about projects, ideas, or potential collaborations.
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/caden-jurkovski-944638212/) [![Personal Website](https://img.shields.io/badge/-Personal_Website-green)](https://jurkovski.com)
+<div align="center">
+    <a href="https://www.linkedin.com/in/jurkovski/">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://jurkovski.com">
+        <img src="https://img.shields.io/badge/Website-0e76a8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Personal Website">
+    </a>
+</div>
 
-> **Why isn't this program quitting?**
-> 
-> _[1]+ Stopped &emsp;&emsp;&emsp;&emsp; nano README.md_
-
+<blockquote>
+    <p><strong>Why isn't this program quitting?</strong></p>
+    <p><em>[1]+ Stopped &emsp;&emsp;&emsp;&emsp; nano README.md</em></p>
+</blockquote>
