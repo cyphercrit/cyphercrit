@@ -19,9 +19,6 @@
     <a href="https://www.linkedin.com/in/jurkovski/">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="https://jurkovski.com">
-        <img src="https://img.shields.io/badge/Website-0e76a8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Personal Website">
-    </a>
 </div>
 
 <blockquote>
